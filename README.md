@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>bdpedroka</h3>
-  <img height="100" src="https://i.imgur.com/NqCAOGr.png" /> 
+  <img height="100" src="https://media1.tenor.com/m/BqluGjD4sVkAAAAC/cuttherope-hum.gif" /> 
 </div>
 
 
